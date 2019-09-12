@@ -12,4 +12,15 @@ redirect_from:
 
 <br>
 
-I am 3rd year undergrad in **Information Technology** at the [Adi Shankara Institute](http://www.adishankara.ac.in/), Kerala, India. I am also doing my **Certified Ethical Hacking** at the moment. What inspires me is the vast amount of information and the how-to's which led me here. My efforts greatly goes into programming, researching about cybersecurity. Currently into **Web Application Security**. Other than this probably you'll be seeing me listen to music or watch some inspiring movies. 
+I am 3rd year undergrad in **Information Technology** at the [Adi Shankara Institute](http://www.adishankara.ac.in/), Kerala, India. I am also doing my **Certified Ethical Hacking** at the moment. What inspires me is the vast amount of information and the how-to's which led me here. My efforts greatly goes into programming, researching about cybersecurity. Currently into **Web Application Security**. Other than this probably you'll see me listen to music or watch some inspiring movies. 
+
+# "Experience"<br>
+
+<br>
+
+## EY GDS, Trivandrum June 2019 – Auguest 2019
+### Cyber Security Internship
+· Attended a month long training familiarizing the concepts and various practices in the field of
+cybersecurity.
+· Working with Attack and Penetration team, dealing with various client products to identify vulnerabilities. 
+
