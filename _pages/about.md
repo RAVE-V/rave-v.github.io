@@ -17,7 +17,7 @@ I am 3rd year undergrad in **Information Technology** at the [Adi Shankara Insti
 <br>
 # Experience<br>
 
-## EY GDS, Trivandrum June 2019 – Auguest 2019
+## EY GDS, Trivandrum       June 2019 – Auguest 2019
 ### Cyber Security Internship
 · Attended a month long training familiarizing the concepts and various practices in the field of
 cybersecurity.
