@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ravishanker M"
 title_separator          : "-"
 name                     : &name "Ravishanker M"
-description              : &description "Bachelors Information Technology"
+description              : &description "Masters in Cyber Security"
 url                      : https://rave-v.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rave-v.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ravishanker M"
   avatar           : "profile.png"
-  bio              : "Undergraduate. CyberSecurity Enthusiast"
+  bio              : "Postggraduate. CyberSecurity Enthusiast"
   location         : "Kochi,India"
   employer         :
   googlescholar    : #"http://yourfullgooglescholarurl.com"
